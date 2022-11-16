@@ -5,3 +5,4 @@
 5. Pay order
 6. Wait for Pizza delivery
 7. Eat Pizza
+8. Put Pizza in the fridge
