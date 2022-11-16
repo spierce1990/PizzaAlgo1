@@ -1,0 +1,7 @@
+1. Google pizza places
+2. Pick a restaurant
+3. Pick your order
+4. Submit order
+5. Pay order
+6. Wait for Pizza delivery
+7. Eat Pizza
